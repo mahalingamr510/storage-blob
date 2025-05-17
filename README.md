@@ -1,5 +1,5 @@
 Azure Storage Account and Blob Container Setup with Terraform:
-   This project provisions an Azure Storage Account and Blob Container using Terraform. It's useful for hosting files, static websites, or enabling integrations with other Azure services
+    This project provisions an Azure Storage Account and Blob Container using Terraform. It's useful for hosting files, static websites, or enabling integrations with other Azure services
 
 Features:
   1. Creates an Azure Resource Group
